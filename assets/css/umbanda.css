@@ -115,6 +115,7 @@ body {
     font-size: 24px;
 }
 
+
 /*botao*/
 
 .Sobre {
@@ -130,12 +131,13 @@ body {
     font-size: 0.75rem;
     line-height: 1;
     cursor: pointer;
+    
   }
 
 .Sobre {
-    
     position:absolute; 
     top: 50%;
     left:50%;
-    transform: translate(-50%, 1500%);
+    transform: translate(-50%, 1100%);
+
 }

@@ -32,7 +32,7 @@ body {
 }
 
 .card:hover {
-    background-image: linear-gradient(#dccf687d, #dccf687d, black);
+    background-image: linear-gradient(#b61c1c90, #7118187a, black);
 }
 
 .card .img {
@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 200px;
-    background-image: url('/assets/imagens/Omulu.png');
+    background-image: url('/assets/imagens/Sete\ Onda.png');
     background-size: cover;
     background-position: center;
     transition: all .5s;
@@ -114,6 +114,7 @@ body {
 .card .arrow span {
     font-size: 24px;
 }
+
 
 /*botao*/
 
